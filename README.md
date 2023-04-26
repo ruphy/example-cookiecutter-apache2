@@ -9,6 +9,8 @@ Repository usage:
 * Fill in this README
 * Add any relevant code
 * Ensure the repository is REUSE-compliant (`reuse lint` -- download reuse via pip)
+* Remove this intro
+* Enjoy! :tada:
 
 # [Project Name]
 
